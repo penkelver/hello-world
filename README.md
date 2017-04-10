@@ -1,2 +1,3 @@
 # hello-world
-Miscellaneous
+Miscellaneous - 
+Just getting used to using GitHub.
